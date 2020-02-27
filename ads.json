@@ -6,13 +6,7 @@
   "startappDev": "194191859",
   "startappApp": "201419282",
   "unityId": "3415402",
-  "totalMaxClicks": 3,
-  "allowRateApp": true,
-  "advAlert": {
-      "title": "HOT",
-      "message": "Best Crazy Ringtones 2020 & 4K Wallpapers",
-      "titleButtonOk": "Install now 🙏🙏🙏",
-      "titleButtonCancel":"No 😢",
-      "urlRedirect": "https://itunes.apple.com/app/id1489323062"
-  }
+  "totalMaxClicks": 30,
+  "allowRateApp": false,
+  "advAlert": null
 }
