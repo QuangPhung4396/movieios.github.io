@@ -1,12 +1,12 @@
 {
   "admobBanner": "ca-app-pub-6567326132643016/2201096041",
   "admobInterstital": "ca-app-pub-6567326132643016/9144110044",
-  "admobReward": "ca-app-pub-6567326132643016/7261851039",
+  "admobReward": "",
   "admobNative": "ca-app-pub-6567326132643016/3971481863",
   "startappDev": "194191859",
   "startappApp": "201419282",
   "unityId": "3415402",
-  "totalMaxClicks": 3,
-  "allowRateApp": true,
+  "totalMaxClicks": 20,
+  "allowRateApp": false,
   "advAlert": null
 }
