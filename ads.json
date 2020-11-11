@@ -3,10 +3,11 @@
   "admobInterstital": "ca-app-pub-6567326132643016/9144110044",
   "admobReward": "ca-app-pub-6567326132643016/7261851039",
   "admobNative": "ca-app-pub-6567326132643016/3971481863",
+  "admobOpen": "ca-app-pub-6567326132643016/3877630711",
   "startappDev": "194191859",
   "startappApp": "201419282",
   "unityId": "3415402",
   "totalMaxClicks": 3,
-  "allowRateApp": true,
+  "allowRateApp": false,
   "advAlert": null
 }
