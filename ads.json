@@ -7,7 +7,7 @@
   "startappDev": "194191859",
   "startappApp": "201419282",
   "unityId": "3415402",
-  "totalMaxClicks": 3,
-  "allowRateApp": false,
+  "totalMaxClicks": 5,
+  "allowRateApp": true,
   "advAlert": null
 }
