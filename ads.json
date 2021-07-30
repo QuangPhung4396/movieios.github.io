@@ -8,6 +8,6 @@
   "startappApp": "201419282",
   "unityId": "3415402",
   "totalMaxClicks": 3,
-  "allowRateApp": true,
+  "allowRateApp": false,
   "advAlert": null
 }
